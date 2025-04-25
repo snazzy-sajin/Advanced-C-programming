@@ -38,7 +38,7 @@ printf("Age:%d\nName:%svaccine:%d\neligibility:yes",e.age,e.n,e.age);
 
 
 Output:
-  
+
 
 
 Result: Thus, the program is verified successfully.
